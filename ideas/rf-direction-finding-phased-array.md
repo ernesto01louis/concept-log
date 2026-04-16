@@ -66,7 +66,6 @@ Detection events, classification results, and link performance data are logged a
 
 *Credits to the people and work that directly inspired this concept.*
 
-- **Ettus Research** — Their USRP platform and multi-device synchronization documentation made coherent multi-channel DF accessible outside institutional labs.
 - **Skylark Wireless / Open.Space** — For building the first genuinely open-source, affordable phased array platform and making electronically steered arrays available to individual builders.
 - **wuxx** — The AntRunner rotator design provided the mechanical foundation that the entire system is built on.
-- **Analog Devices** — The Phaser CN0566 development kit and its accompanying educational material on beamforming and array signal processing.
+- **Jon Kraft** — His youtube videos where the most insightfull in regards to phased array antennas in my opinion.
