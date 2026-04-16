@@ -22,6 +22,7 @@ Some of these ideas become full projects. When that happens, the idea file gets 
 | Concept | Domain | Date | Status |
 |---------|--------|------|--------|
 | [Autonomous Aerodynamic Optimization via GPU-Accelerated CFD and Learned Surrogates](ideas/gpu-cluster-aero-optimization.md) | Aerodynamics, AI, CFD | 2026-04-16 | Idea |
+| [Hybrid RF Direction Finding and Phased Array Communication System](ideas/rf-direction-finding-phased-array.md) | RF Systems, Signal Processing, AI | 2026-04-16 | Idea |
 
 ## A note on completeness
 
