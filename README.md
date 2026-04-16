@@ -4,16 +4,12 @@ A public record of project ideas, system designs, and technical concepts — eac
 
 ## Why this exists
 
-Ideas are cheap, execution is expensive. But having a timestamped, public record of a concept before it becomes a project is useful — both as a personal reference and as a form of prior art documentation. Git's commit history provides cryptographic timestamps that are verifiable by anyone.
+From past experience i learned that only telling my friends about ideas i have can be very frustrating when i see them beeing adapted by others with no way to prove i had the same idea as well. 
+Hence this record to prove with timestamps of what i tought off.
 
 ## How to read this
 
-Each file in [`ideas/`](ideas/) is a standalone concept document. They follow a consistent structure:
-
-- **What** the idea is
-- **Why** it matters or what problem it solves
-- **How** it might work at a high level
-- **Open questions** that still need answering
+Each file in [`ideas/`](ideas/) is a standalone concept document. 
 
 Some of these ideas become full projects. When that happens, the idea file gets a link to the project repo and a status update.
 
